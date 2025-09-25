@@ -1,4 +1,4 @@
-Hi there 👋🏼 I'm a grad student at Penn studying Computer Science.
+Hi there 👋🏼 I'm a grad student at UPenn studying Computer Science.
 
 I've completed two SWE internships, most recently at Patreon where I worked on a new bookmarking feature for both the backend (Python) and Android platform (Kotlin).
 
