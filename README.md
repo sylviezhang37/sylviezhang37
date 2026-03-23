@@ -1,0 +1,3 @@
+- Languages: Python, Java, Go, TypeScript, C++
+- Technologies: AWS, MySQL / Postgres, MongoDB, Docker
+- Interests: Infra, Backend
