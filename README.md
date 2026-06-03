@@ -4,7 +4,7 @@
 
 <br><br>
 
-**Languages:** Python · Java · Go · TypeScript · C++
+**Languages:** Python · Java · Go · TypeScript · C
 
 **Technologies:** AWS · MySQL / Postgres · MongoDB · Docker
 
